@@ -72,3 +72,21 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# VScode
+.vscode/
+
+ArenaShooter.code-workspace
+
+Config/DefaultEditorSettings.ini
+
+
+.git
+.vscode
+Content
+DerivedDataCache
+Intermediate
+Saved
+Script
+
+Source
