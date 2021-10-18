@@ -19,7 +19,7 @@ All other assets: Unreal Marketplace
 
 <h1>Installation</h1>
 The game can be run by cloning the repo and then opening and playing the "Main" level. Alternatively you may run one of the following executeables.<br>
-Windows: 
+Windows: https://drive.google.com/drive/folders/1qYG-jNFmnsp7tsT4FpOQLZ6y068G8kgY?usp=sharing
 Mac: https://1drv.ms/u/s!AoL5Qpy3NBwXk4k5qbEIWBuk5C13PA?e=1DDzdQ
 
 <h2>Playing</h2>
