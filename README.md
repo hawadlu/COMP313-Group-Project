@@ -20,7 +20,7 @@ All other assets: Unreal Marketplace
 <h1>Installation</h1>
 The game can be run by cloning the repo and then opening and playing the "Main" level. Alternatively you may run one of the following executeables.<br>
 Windows: <strong>Add link to exe here</strong><br>
-Mac: 
+Mac: <strong>Add link to exe here</strong>
 
 <h2>Playing</h2>
 Before playing for the first time a weapon needs to be selected from the loadout menu. To do this go to to the loadout menu and choose a weapon from the dropdown.
