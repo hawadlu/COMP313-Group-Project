@@ -24,3 +24,7 @@ Mac: https://1drv.ms/u/s!AoL5Qpy3NBwXk4k5qbEIWBuk5C13PA?e=1DDzdQ
 
 <h2>Playing</h2>
 Before playing for the first time a weapon needs to be selected from the loadout menu. To do this go to to the loadout menu and choose a weapon from the dropdown.
+
+<h2>Demonstration Videos</h2>
+Gameplay Video: https://youtu.be/_TSNlnV8kAQ <br>
+Blueprint Video: https://youtu.be/YFrNmsSNPuk
